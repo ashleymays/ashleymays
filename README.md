@@ -1,6 +1,6 @@
 <img alt="Header picture" src="https://drive.google.com/uc?export=view&id=1sTIzAM0UdWhsTn7eonWqDETAYcZNvwls" />
 
-<!-- <a target="_blank" href="https://twitter.com/ashleymays091"><img alt="Twitter logo" src="https://drive.google.com/uc?export=view&id=15d7NB6joJ6M_eup14o_Tp5WBaAiI7NsG" height="25" /></a> <a target="_blank" href="https://www.linkedin.com/in/ashleymays091/"><img alt="Linkedin logo" src="https://drive.google.com/uc?export=view&id=1fme2Btu5FtKt8PBW65t3V0iwApQEMUR0" height="25" /></a></a> <a target="_blank" href="mailto:ashleymays091@gmail.com"><img alt="Email logo" src="https://drive.google.com/uc?export=view&id=1W1cyrbYgeNHwXahcNvseQTjUmbIglcOU" height="25" /></a> -->
+<a target="_blank" href="https://twitter.com/ashleymays091"><img alt="Twitter logo" src="https://drive.google.com/uc?export=view&id=15d7NB6joJ6M_eup14o_Tp5WBaAiI7NsG" height="25" /></a> <a target="_blank" href="https://www.linkedin.com/in/ashleymays091/"><img alt="Linkedin logo" src="https://drive.google.com/uc?export=view&id=1fme2Btu5FtKt8PBW65t3V0iwApQEMUR0" height="25" /></a></a> <a target="_blank" href="mailto:ashleymays091@gmail.com"><img alt="Email logo" src="https://drive.google.com/uc?export=view&id=1W1cyrbYgeNHwXahcNvseQTjUmbIglcOU" height="25" /></a>
 
 ## Current Projects 
 
