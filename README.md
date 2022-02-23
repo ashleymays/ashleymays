@@ -1,7 +1,5 @@
 # Hi 👋 I'm Ashley Mays
 
-<br/>
-
 ### 📚 I'm a software developer and math student set to graduate in May 2022. <br/>
 
  * 💛 I enjoy analysis, programming, and problem solving. <br/><br/>
