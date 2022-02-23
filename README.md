@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Ashley :wave: <br>I'm a software developer.</h1>
+# Hi, I'm Ashley 👋
 
 <br/>
 
-<h3>I enjoy analysis, programming, and problem solving.</h3>
-<h3>I'm currently working on a puzzle game with Unity.</h3>
-<h3>I'm learning about advanced data structures and algorithms, as well as the Unity framework.</h3>
-<h3>I'm interested in contributing to open-source projects that relate to operating systems or libraries.</h3>
-<h3>You can find me on <a href="https://twitter.com/ashleymays091">Twitter</a> or <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>, or you can email me at <a href="mailto:ashleymays091@gmail.com">ashleymays091@gmail.com</a>.</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: I'm a software developer and math student set to graduate in May 2022. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💛 I enjoy analysis, programming, and problem solving. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👀 I'm currently working on a puzzle game with Unity. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💪 I'm learning about advanced data structures and algorithms, as well as the Unity framework. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎉 I'm interested in contributing to open-source projects that relate to operating systems or libraries. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: You can find me on [Twitter](https://twitter.com/ashleymays091) or [Linkedin](https://www.linkedin.com/in/ashleymays091/), or you can email me at ashleymays091@gmail.com. <br/><br/>
 
 <br/>
 
