@@ -1,20 +1,14 @@
-<img alt="Header picture" src="https://github.com/ashleymays/ashleymays/blob/main/I'm%20a%20software%20engineer%20and%20math%20student..png?raw=true" />
+<h1 align="center">Hi, I'm Ashley :wave: <br>I'm a software developer.</h1>
 
-<a target="_blank" href="https://twitter.com/ashleymays091"><img alt="Twitter logo" src="https://github.com/ashleymays/ashleymays/blob/main/twitter%20logo.png?raw=true" height="25" /></a> <a target="_blank" href="https://www.linkedin.com/in/ashleymays091/"><img alt="Linkedin logo" src="https://github.com/ashleymays/ashleymays/blob/main/linkedin%20logo.png?raw=true" height="25" /></a></a> <a target="_blank" href="mailto:ashleymays091@gmail.com"><img alt="Email logo" src="https://github.com/ashleymays/ashleymays/blob/main/email%20logo.png?raw=true" height="25" /></a>
+<br/>
 
-## Current Projects 
+ * I enjoy analysis, programming, and problem solving.
+ * I'm currently working on a puzzle game with Unity.
+ * I'm learning about advanced data structures and algorithms, as well as the Unity framework.
+ * I'm interested in contributing to open-source projects that relate to operating systems or libraries.
+ * You can find me on [Twitter](https://twitter.com/ashleymays091) or [Linkedin](https://www.linkedin.com/in/ashleymays091/), or you can email me at ashleymays091@gmail.com.
 
-Right now I'm making a 3D maze game with Unity and redesigning my portfolio website. I'm hoping to learn how to manage a long-term project and how to program with a game engine. I also would like to explore my creative side. I'm also redesigning my portfolio because I think it's ugly.
+<br/>
 
-## Tools I Use
- * Languages: C++, C#, Javascript, HTML, CSS
- * Frameworks: ASP.NET Core MVC
- * Technologies: Visual Studio, XCode, Unity
-
-## Goals for 2022
-
-I'd really like to work as a full-time software engineer by May 2022. I also want to master React to make the most amazing websites and web apps. I’d also like to get started on my dream project: a web browser.
-
-<br>
-
-[![Spotify](https://novatorem-pi-taupe.vercel.app/api/spotify)](https://open.spotify.com/user/tqmvq15ozapfpu7cv3xju8x61)
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleymays&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|[![Spotify](https://novatorem-pi-taupe.vercel.app/api/spotify/)](https://open.spotify.com/user/tqmvq15ozapfpu7cv3xju8x61)|
+|----|----|
