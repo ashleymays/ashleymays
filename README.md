@@ -1,14 +1,13 @@
-# Hi, I'm Ashley 👋
+# Hi 👋 I'm Ashley Mays
 
 <br/>
 
+### 📚 I'm a software developer and math student set to graduate in May 2022. <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: I'm a software developer and math student set to graduate in May 2022. <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💛 I enjoy analysis, programming, and problem solving. <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👀 I'm currently working on a puzzle game with Unity. <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💪 I'm learning about advanced data structures and algorithms, as well as the Unity framework. <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎉 I'm interested in contributing to open-source projects that relate to operating systems or libraries. <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: You can find me on [Twitter](https://twitter.com/ashleymays091) or [Linkedin](https://www.linkedin.com/in/ashleymays091/), or you can email me at ashleymays091@gmail.com. <br/><br/>
+ * 💛 I enjoy analysis, programming, and problem solving. <br/><br/>
+ * 👀 I'm currently working on a puzzle game with Unity. <br/><br/>
+ * 💪 I'm learning about advanced data structures and algorithms, as well as the Unity framework. <br/><br/>
+ * 🎉 I'm interested in contributing to open-source projects that relate to operating systems or libraries. <br/><br/>
 
 <br/>
 
