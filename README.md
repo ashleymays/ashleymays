@@ -1,7 +1,7 @@
 # Hey I'm Ashley :wave: :penguin:
 
 * :mortar_board: I'm a software developer and math student set to graduate in May 2022.
-* :video_game: Right now I'm working on my portfolio website and a 3D puzzle game in Unity.
+* :video_game: Right now I'm working on a 3D puzzle game in Unity.
 * :books: I'm interested in everything from real analysis to robotics
 * :triangular_ruler: I'd like to use my background in math to make software that helps people.
 * :computer: You can find me on <a href="https://twitter.com/ashleymays091">Twitter</a> and <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>.
