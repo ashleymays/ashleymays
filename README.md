@@ -3,7 +3,7 @@
 
 ## :shell: A little more about me...
 
-* :video_game: Right now I’m working on a puzzle game based on Hamiltonian paths made with Unity3D
+* :video_game: Right now I’m working on my portfolio website.
 * :triangular_ruler: I like using math and computer science to solve real-world problems
 * :seedling: My goals are to finish my game and make projects with Boost and Qt
 * :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course)
