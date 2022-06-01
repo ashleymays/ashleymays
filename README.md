@@ -1,4 +1,4 @@
-<img src="https://github.com/ashleymays/ashleymays/blob/main/Github%20Title.png" />
+<img src="https://github.com/ashleymays/ashleymays/blob/main/Github%20Title%20(1).png" />
 
 
 ## :shell: A little more about me...
