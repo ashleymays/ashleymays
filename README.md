@@ -29,7 +29,7 @@
 
 ## :earth_americas: Where to find me
 
-I'd really like to connect! You can reach me on <a href="https://twitter.com/ashleymays091">Twitter</a> and <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>. I post updates on my projects and everything I'm learning. Or you can email me at ashleymays091@gmail.com.
+You can reach me on <a href="https://twitter.com/ashleymays091">Twitter</a> and <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>. I post updates on my projects and everything I'm learning. Or you can email me at ashleymays091@gmail.com.
 
 <br />
 
