@@ -3,7 +3,7 @@
 
 ## :shell: A little more about me...
 
-* :video_game: Right now I’m making small projects in Javascript.
+* :video_game: Right now I’m doing a bunch of Leetcode problems and applying for jobs
 * :triangular_ruler: I like using math and computer science to solve real-world problems
 * :seedling: My goals are to finish my game and make projects with Boost and Qt
 * :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course)
@@ -21,7 +21,7 @@
 ![Latex](https://img.shields.io/badge/Language-Latex-informational?style=flat&logoColor=white&color=42A59E)
 ![VS](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=42A59E)
 ![VSCode](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logoColor=white&color=42A59E)
-
+![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logoColor=white&color=42A59E)
 </div>
 
 <br />
