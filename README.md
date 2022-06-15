@@ -5,8 +5,8 @@
 
 * :video_game: Right now I’m doing a bunch of Leetcode problems and applying for jobs
 * :triangular_ruler: I like using math and computer science to solve real-world problems
-* :seedling: My goals are to finish my game and make projects with Boost and Qt
-* :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course)
+* :seedling: My goal right now are to learn more advanced data structures
+* :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course ;)
 
 <br />
 
