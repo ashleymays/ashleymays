@@ -3,7 +3,7 @@
 
 ## :shell: A little more about me...
 
-* :video_game: Right now I’m doing a bunch of Leetcode problems and applying for jobs
+* :video_game: Right now I’m building a chord identifier with TonalJS and applying for jobs
 * :triangular_ruler: I like using math and computer science to solve real-world problems
 * :seedling: My goal right now are to learn more advanced data structures
 * :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course ;)
