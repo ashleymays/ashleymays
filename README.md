@@ -1,10 +1,8 @@
 # Hi :wave: I'm Ashley. I'm an aspiring software developer in California.
 
-I really like solving puzzles and building things that matter. Right now I’m building a chord identifier with TonalJS and applying for jobs. My goal right now is to find work as a software developer and make more website.
+I really like solving puzzles and building things that matter. Right now I’m building a chord identifier with TonalJS and applying for jobs. My goal right now is to find work as a software developer and make more websites.
 
-<br />
-
-## :unlock: My tech stack so far
+## My tech stack so far
 
 <div align="left">
 
@@ -17,10 +15,8 @@ I really like solving puzzles and building things that matter. Right now I’m b
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logoColor=white&color=42A59E)
 </div>
 
-<br />
 
-
-## :earth_americas: Where to find me
+## Where to find me
 
 I'd love to connect with you. I'm looking for some great open-source projects to contribute to. You can find me on
 * <a href="https://twitter.com/ashleymays091">Twitter</a>
