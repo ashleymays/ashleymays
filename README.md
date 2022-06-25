@@ -1,4 +1,4 @@
-# Hi :wave: I'm Ashley. I'm an aspiring software developer in California.
+# Hi :wave: I'm Ashley. <br/> I'm an aspiring software developer in California.
 
 I really like solving puzzles and building things that matter. Right now I’m building a chord identifier with TonalJS and applying for jobs. My goal right now is to find work as a software developer and make more websites.
 
