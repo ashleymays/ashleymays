@@ -1,12 +1,6 @@
-<img src="https://github.com/ashleymays/ashleymays/blob/main/Github%20Title%20(1).png" />
+# Hi :wave: I'm Ashley. I'm an aspiring software developer in California.
 
-
-## :shell: A little more about me...
-
-* :video_game: Right now I’m building a chord identifier with TonalJS and applying for jobs
-* :triangular_ruler: I like using math and computer science to solve real-world problems
-* :seedling: My goal right now are to learn more advanced data structures
-* :musical_keyboard: I play piano and watch sitcoms when I’m not programming (which is never, of course ;)
+I really like solving puzzles and building things that matter. Right now I’m building a chord identifier with TonalJS and applying for jobs. My goal right now is to find work as a software developer and make more website.
 
 <br />
 
@@ -18,7 +12,6 @@
 ![C#](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logoColor=white&color=42A59E)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logoColor=white&color=42A59E)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logoColor=white&color=42A59E)
-![Latex](https://img.shields.io/badge/Language-Latex-informational?style=flat&logoColor=white&color=42A59E)
 ![VS](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=42A59E)
 ![VSCode](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logoColor=white&color=42A59E)
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logoColor=white&color=42A59E)
@@ -29,7 +22,11 @@
 
 ## :earth_americas: Where to find me
 
-You can reach me on <a href="https://twitter.com/ashleymays091">Twitter</a> and <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>. I post updates on my projects and everything I'm learning. Or you can email me at ashleymays091@gmail.com.
+I'd love to connect with you. I'm looking for some great open-source projects to contribute to. You can find me on
+* <a href="https://twitter.com/ashleymays091">Twitter</a>
+* <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>
+* <a href="https://ashleymays.github.io/">Personal Website</a>
+* <a href="https://dev.to/ashleymays">Dev.to Blog</a>
 
 <br />
 
