@@ -1,6 +1,6 @@
 # Hi :wave: I'm Ashley. <br/> I'm an aspiring software developer in California.
 
-I really like solving puzzles and building things that matter. Right now I’m building a chord identifier with TonalJS and applying for jobs. My goal right now is to find work as a software developer and make more websites.
+I really like solving puzzles and building things that matter. Right now I’m building an online piano website. My goal right now is to find work as a software developer and make more software apps.
 
 ## My tech stack so far
 
@@ -10,6 +10,7 @@ I really like solving puzzles and building things that matter. Right now I’m b
 ![C#](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logoColor=white&color=42A59E)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logoColor=white&color=42A59E)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logoColor=white&color=42A59E)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23F05033.svg?style=flat&logoColor=white&color=42A59E)
 ![VS](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=42A59E)
 ![VSCode](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logoColor=white&color=42A59E)
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05033.svg?style=flat&logoColor=white&color=42A59E)
