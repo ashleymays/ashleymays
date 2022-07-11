@@ -23,7 +23,6 @@ I'd love to connect with you. I'm looking for some great open-source projects to
 * <a href="https://twitter.com/ashleymays091">Twitter</a>
 * <a href="https://www.linkedin.com/in/ashleymays091/">Linkedin</a>
 * <a href="https://ashleymays.github.io/">Personal Website</a>
-* <a href="https://dev.to/ashleymays">Dev.to Blog</a>
 
 <br />
 
