@@ -10,6 +10,6 @@ Hey, I'm Ashley. I make websites and web apps for whatever idea comes into my he
     Thing I'm learning: Modular architecture, domain-driven design, design patterns in general
   </li>
   <li>
-    Show I'm watching: The Boys
+    Show I'm watching: The Boys (and the original Gossip Girl for some reason)
   </li>
 </ul>
