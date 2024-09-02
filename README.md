@@ -7,6 +7,6 @@ Hey, I'm Ashley. I make websites and web apps for whatever idea comes into my he
     Thing I'm learning: domain-driven design
   </li>
   <li>
-    Show I'm watching: N/A
+    Show I'm watching: House M.D.
   </li>
 </ul>
