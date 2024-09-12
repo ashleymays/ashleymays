@@ -4,7 +4,7 @@ Hey, I'm Ashley. I make websites and web apps for whatever idea comes into my he
 
 <ul>
   <li>
-    Thing I'm learning: domain-driven design
+    Thing I'm learning: Java, Next.js, domain-driven design
   </li>
   <li>
     Show I'm watching: House M.D.
